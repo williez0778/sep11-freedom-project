@@ -11,6 +11,7 @@ The tool that I seem to have picked at the moment will be Aframe and what I plan
 I am just exploring Aframe and looking at all the games and stuff they have for example on their site I haven't build anything yet.
 ### Skills
 The skills being used really are How to google since I used it to find examples of what Aframe can do and see the basic codes that is done in the back and Organization because I had to organize what I had to search since I was going to look at what option first what options are out there etc.
+( \ )
 [Next](entry02.md)
 
 [Home](../README.md)
